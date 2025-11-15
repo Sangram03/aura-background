@@ -22,7 +22,7 @@ export default function Navbar({ theme }: NavbarProps) {
           }`}
         >
           <Image
-            src="/favicon.svg"
+            src="/favicon.png"
             alt="PatternCraft Logo"
             width={20}
             height={20}

@@ -20,7 +20,7 @@ export const SUPPORT_CONFIG = {
 } as const;
 
 export const APP_CONFIG = {
-  GITHUB_URL: "https://github.com/",
+  GITHUB_URL: "https://github.com/Sangram03/aura-background",
   TWITTER_URL: "https://twitter.com/",
   CONTRIBUTING_URL: "https://github.com/",
 } as const;
